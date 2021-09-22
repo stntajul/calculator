@@ -1,0 +1,25 @@
+body{
+    justify-content: center;
+    text-align: center;
+}
+button{
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    float: left;
+    margin: 5px;
+ 
+
+}
+.calculator{
+
+    width: 500px;
+    height: 500px;
+    
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+}
+.input-field{
+    margin-top: 10px;
+    height: 100px;
+}
